@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SDcart/static/css/main.3a7aea20.css",
-    "main.js": "/SDcart/static/js/main.645948aa.js",
+    "main.js": "/SDcart/static/js/main.8721ec3b.js",
     "static/js/787.36b35891.chunk.js": "/SDcart/static/js/787.36b35891.chunk.js",
     "static/media/coffee.jpg": "/SDcart/static/media/coffee.3a3ca6928c4936df1287.jpg",
     "static/media/popcorn.jpg": "/SDcart/static/media/popcorn.88c63d42e489d7fcb9c9.jpg",
@@ -79,11 +79,11 @@
     "static/media/img.png": "/SDcart/static/media/img.19d0d599bac74c048afd.png",
     "index.html": "/SDcart/index.html",
     "main.3a7aea20.css.map": "/SDcart/static/css/main.3a7aea20.css.map",
-    "main.645948aa.js.map": "/SDcart/static/js/main.645948aa.js.map",
+    "main.8721ec3b.js.map": "/SDcart/static/js/main.8721ec3b.js.map",
     "787.36b35891.chunk.js.map": "/SDcart/static/js/787.36b35891.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a7aea20.css",
-    "static/js/main.645948aa.js"
+    "static/js/main.8721ec3b.js"
   ]
 }
